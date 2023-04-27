@@ -10,10 +10,7 @@
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/profile-snake-contrib/github-contribution-grid-snake-dark.svg" />
   </p>
-<p align="center">
-<img src="https://img.shields.io/badge/GitHub-Xiaolangs-brightgreen"/>
-<img src="https://img.shields.io/badge/language-kotlin-orange.svg"/>
-</p>
+
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=Xiaolangs&count_private=true" width="450"/>
 </p>
